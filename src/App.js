@@ -10,7 +10,6 @@ import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import Rank from './components/Rank/Rank';
 import './App.css';
 
-//You must add your own API key here from Clarifai.
 const app = new Clarifai.App({
  apiKey: '137d62babc5d4c8e8b3a292cab5cc896'
  
