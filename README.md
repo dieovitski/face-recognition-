@@ -1,1 +1,2 @@
-"# face-recognition-" 
+Run npm install
+Run npm start
